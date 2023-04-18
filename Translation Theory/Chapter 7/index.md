@@ -98,3 +98,11 @@ Common hurdle to research-based methods:
 
 ## 7.4 Difficulties involved in evaluating translation quality
 
+Lack of standardized methods of evaluation: stems from:
+- multiple, unstated purposes of evaluation 
+- multiple purposes of target text
+e.g. for website - machine translation ok, not for constitution of a country
+
+Approaches arise from models that focus on partial aspects: due to practical limitation and sheer complexity of the task
+
+Practical concerns about implementation: hard for non-creator -> people in need create their own.
