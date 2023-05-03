@@ -7,7 +7,7 @@ Table of contents:
 - [7.3 Major approaches to evaluation](#73-major-approaches-to-evaluation)
     - Experience-based approaches
     - Theoretical and research-based approaches
-- [7.4 Difficulties involved in evaluating translation quality]()
+- [7.4 Difficulties involved in evaluating translation quality](#74-difficulties-involved-in-evaluating-translation-quality)
 - [7.5 A user-defined, comprehensive view of quality: Description]()
 - [7.6 A user-defined, comprehensive view of quality: Exemplification]()
     - The functional-componential approach and the Translation Quality
