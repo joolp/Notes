@@ -106,3 +106,10 @@ e.g. for website - machine translation ok, not for constitution of a country
 Approaches arise from models that focus on partial aspects: due to practical limitation and sheer complexity of the task
 
 Practical concerns about implementation: hard for non-creator -> people in need create their own.
+
+Difficulties in designing a system:
+- Multiple views of translation.
+- Multiple purposes of evaluation.
+- The criteria used for evaluation are unclear or unstated.
+- Many approaches are difficult to apply.
+- Not comprehensive enough; focus on partial aspects of translation.
