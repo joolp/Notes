@@ -1,8 +1,0 @@
-# Section 1
-
-## A. True-False
-1. False
-2. True
-3. False
-4. 
-5. False
